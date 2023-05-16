@@ -42,3 +42,16 @@ If you can't deploy your uServices independently, then you probably have "Servic
 
 Microservices are the most scalable way to build software, but if you don't need to scale, they are often a less efficient way to organise your work.
 
+## Topics in this Class
+
+### Actually Doing It
+We are going to emphasize the process of actually building a small MSA.
+
+### Tech Topics
+#### Integrating with RPCS:
+- HTTP as RPC
+- gRPC for RPC
+
+#### Observability
+- OpenTelemetry
+

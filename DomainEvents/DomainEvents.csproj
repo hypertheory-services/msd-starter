@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <Title>Hr Domain Events</Title>
+    <PackageOutputPath>C:\Users\enith\dev\class\msd\nugets</PackageOutputPath>
+    <Version>1.0.2</Version>
+  </PropertyGroup>
+
+</Project>
